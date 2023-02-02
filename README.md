@@ -36,9 +36,9 @@ Daisy Care là ứng dụng đặt lịch khám/ chữa bệnh được lấy c�
   - mySQL
   - ...
  
-- [Thiết kế giao diện Figma](#)
+- [Thiết kế giao diện Figma](https://www.figma.com/file/lmBpCeh9Di9Alz8Fs9ECFk/DaisyCare-UI?node-id=0%3A1&t=fGCU8RSNJ1Pq3gdF-1&fbclid=IwAR3HvJWCkt5CALjbNoUfZkAy-PnH2hbedW9B06MJgXq1_jzrXRPsJKoCHVE)
 
-- [Source code](#)
+- [Source code](https://github.com/NevaLetYouDown/DaisyCare)
 
 ## Thành viên của NevaLetYouDown
 
