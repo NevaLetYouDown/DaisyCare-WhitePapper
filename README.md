@@ -10,7 +10,7 @@
 - [Thành viên của NevaLetYouDown](#thành-viên-của-nevaletyoudown)
   
   
-## What is NevaLetYouDown
+## Giới thiệu NevaLetYouDown
 
 Nhóm mang số hiệu **99** lớp `Công Nghệ Phần Mềm 1`
 
